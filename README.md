@@ -3,8 +3,7 @@
 Global command that updates Cordova plugins in the project you run it from.
 
 ```bash
-npm install -g .
-cordovup
+npm install -g @globules-io/cordovup
 ```
 
 Run it in a Cordova project (the folder that contains `config.xml`).
