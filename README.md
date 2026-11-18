@@ -6,6 +6,12 @@ Global command that updates Cordova plugins in the project you run it from.
 npm install -g @globules-io/cordovup
 ```
 
+then run
+
+```bash
+cordovup
+```
+
 Run it in a Cordova project (the folder that contains `config.xml`).
 
 1. Runs `npm outdated --depth=0`
