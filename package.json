@@ -1,0 +1,15 @@
+{
+  "name": "@globules-io/cordovup",
+  "version": "1.0.0",
+  "description": "Update Cordova plugins from npm outdated and write the new versions into config.xml",
+  "license": "MIT",
+  "bin": {
+    "cordovup": "cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
